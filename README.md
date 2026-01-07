@@ -4,7 +4,7 @@ A simple, reusable Python script to send emails using the `smtplib` and `email` 
 
 ## 🚀 Features
 - **Plain Text Emails**: Send quick updates or notifications.
-- **File Attachments**: Support for images (PNG/JPG) and documents (PDF).
+- **File Attachments(Auto-Detection)**:  Works for PNG, JPG, PDF, ZIP, and more using the `mimetypes` library.
 - **Secure Connection**: Uses `SSL/TLS` for secure communication with mail servers.
 
 ## 🛠️ Prerequisites
