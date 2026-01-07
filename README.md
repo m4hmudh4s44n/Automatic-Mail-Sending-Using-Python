@@ -15,7 +15,7 @@ A simple, reusable Python script to send emails using the `smtplib` and `email` 
 ## 📦 Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/python-email-sender.git](https://github.com/yourusername/python-email-sender.git)
+   git clone [https://github.com/m4hmudh4s44n/python-email-sender.git](https://github.com/m4hmudh4s44n/python-email-sender.git)
    ```
    
 2. Navigate to the directory:
