@@ -3,7 +3,7 @@ import mimetypes
 from email.message import EmailMessage
 
 msg = EmailMessage()
-msg['Subject'] = "Universal File Transfer 🚀"
+msg['Subject'] = "Universal File Transfer"
 msg['From'] = "your_email@gmail.com"
 msg['To'] = "recipient@example.com"
 msg.set_content("This email was sent using a universal attachment script.")
@@ -36,4 +36,5 @@ try:
         server.send_message(msg)
     print(f"Success! {file_path} sent.")
 except Exception as e:
+
     print(f"Error: {e}")
